@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Section 1328(b) Hardship Discharge - Requirements and Process</title>
-<meta content="Complete guide to the Section 1328(b) hardship discharge in Chapter 13 bankruptcy. Learn the three requirements, what qualifies, and how the..." name="description"/>
-<meta content="1328(b) hardship discharge chapter 13 requirements, hardship discharge bankruptcy, chapter 13 hardship, 1328b" name="keywords"/>
-<link href="https://section1328.org/1328b-hardship.html" rel="canonical"/>
+<title>Modifying Your Chapter 13 Plan Before Discharge - Section 1329</title>
+<meta content="Learn about modifying your chapter 13 plan before discharge - section 1329 | section1328.org in our free 2026 guide." name="description"/>
+<meta content="modify chapter 13 plan before discharge 1329, chapter 13 plan modification, lower chapter 13 payment, section 1329" name="keywords"/>
+<link href="https://section1328.org/modification-before-discharge.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="Section 1328(b) Hardship Discharge - Requirements and Process" property="og:title"/>
-<meta content="Complete guide to the Section 1328(b) hardship discharge in Chapter 13 bankruptcy. Learn the three requirements, what qualifies, and how the..." property="og:description"/>
+<meta content="Modifying Your Chapter 13 Plan Before Discharge - Section 1329" property="og:title"/>
+<meta content="Learn about modifying your chapter 13 plan before discharge - section 1329 | section1328.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://section1328.org/1328b-hardship.html" property="og:url"/>
+<meta content="https://section1328.org/modification-before-discharge.html" property="og:url"/>
 <meta content="section1328.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Section 1328(b) Hardship Discharge - Requirements and Process" name="twitter:title"/>
-<meta content="Complete guide to the Section 1328(b) hardship discharge in Chapter 13 bankruptcy. Learn the three requirements, what qualifies, and how the..." name="twitter:description"/>
+<meta content="Modifying Your Chapter 13 Plan Before Discharge - Section 1329" name="twitter:title"/>
+<meta content="Learn about modifying your chapter 13 plan before discharge - section 1329 | section1328.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://section1328.org/og-image.svg" property="og:image"/>
 <meta content="https://section1328.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -45,24 +45,9 @@
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Network",
-      "item": "https://1328f.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Section 1328",
-      "item": "https://section1328.org/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "1328(b) Hardship Discharge",
-      "item": "https://section1328.org/1328b-hardship.html"
-    }
+    {"@type": "ListItem", "position": 1, "name": "Network", "item": "https://1328f.com/"},
+    {"@type": "ListItem", "position": 2, "name": "Section 1328", "item": "https://section1328.org/"},
+    {"@type": "ListItem", "position": 3, "name": "Plan Modification", "item": "https://section1328.org/modification-before-discharge.html"}
   ]
 }
 </script>
@@ -74,34 +59,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is a hardship discharge in Chapter 13 bankruptcy?",
+      "name": "Can I lower my Chapter 13 payment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A hardship discharge under 11 U.S.C. Section 1328(b) allows a Chapter 13 debtor to receive a discharge without completing all plan payments, provided the debtor meets three requirements: the failure to complete payments is due to circumstances beyond the debtor's control, unsecured creditors have received at least as much as they would have in a Chapter 7 liquidation, and modification of the plan is not practicable."
+        "text": "Yes, if your financial circumstances have changed. Section 1329 allows the debtor to request modification of the plan after confirmation. Common reasons include job loss, income reduction, increased necessary expenses, or medical emergency. The modified plan must still satisfy the best interest test and other confirmation requirements. File a motion to modify with the court and provide evidence of the changed circumstances."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I have to try plan modification before requesting a hardship discharge?",
+      "name": "Can the trustee increase my payment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Section 1328(b)(3) requires that modification of the plan under Section 1329 must not be practicable. Courts generally require you to demonstrate that you have considered or attempted plan modification and that it would not resolve the problem. If your income has permanently dropped to zero due to disability, for example, modification clearly would not help."
+        "text": "Yes. Section 1329(a) allows the trustee or any unsecured creditor to request plan modification, not just the debtor. If the trustee learns that the debtor's income has increased significantly - for example, a raise, a new job, or an inheritance - the trustee can file a motion to modify the plan to increase payments to unsecured creditors. Tax returns filed during the plan often reveal income changes."
       }
     },
     {
       "@type": "Question",
-      "name": "What debts survive a hardship discharge?",
+      "name": "How many times can I modify my plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A hardship discharge under Section 1328(b) has the same scope as a Chapter 7 discharge under Section 727. This means it does NOT include the Chapter 13 superdischarge provisions. Debts for fraud (523(a)(2)), fiduciary fraud (523(a)(4)), willful and malicious injury (523(a)(6)), student loans (523(a)(8)), and domestic support obligations (523(a)(5)) all survive a hardship discharge."
+        "text": "The statute does not set a specific limit on the number of modifications. However, courts may lose patience with repeated modifications, particularly if they always reduce payments. Each modification must be justified by changed circumstances and must still satisfy confirmation requirements. As a practical matter, most cases involve zero to two modifications."
       }
     },
     {
       "@type": "Question",
-      "name": "How much do I need to have paid into the plan to get a hardship discharge?",
+      "name": "Do I need a lawyer to modify my Chapter 13 plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There is no minimum payment percentage required by the statute. However, you must meet the best interest test - unsecured creditors must have received at least as much as they would have received in a Chapter 7 liquidation. If your non-exempt assets would have generated significant value in a Chapter 7, you may need to have paid a substantial portion of the plan before qualifying."
+        "text": "You are not legally required to have a lawyer to file a plan modification. Pro se debtors can file the motion themselves. However, plan modification involves technical requirements - the modified plan must still satisfy the best interest test, the feasibility test, and other confirmation standards. Mistakes can result in denial of the modification or even dismissal of the case. If you have an attorney on record, they typically handle modifications as part of their representation."
       }
     }
   ]
@@ -113,8 +98,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Section 1328(b) Hardship Discharge",
-      "description": "Complete guide to the Section 1328(b) hardship discharge in Chapter 13 bankruptcy. Learn the three requirements, what qualifies, and how the process works.",
+      "headline": "Modifying Your Chapter 13 Plan Before Discharge",
+      "description": "How to modify a Chapter 13 plan after confirmation but before discharge under Section 1329. Covers payment changes, extensions, and when modification is the bet",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -126,68 +111,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://section1328.org/1328b-hardship.html"
+      "mainEntityOfPage": "https://section1328.org/modification-before-discharge.html"
     },
     {
       "@type": "HowTo",
-      "name": "Section 1328(b) Hardship Discharge",
+      "name": "Modifying Your Chapter 13 Plan Before Discharge",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nSection 1328(b) Hardship Discharge - Requiremen"
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nModifying Your Chapter 13 Plan Before Discharge "
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "Debts obtained by fraud - false pretenses, false representations, actual fraud (Section 523(a)(2))"
+          "text": "The Chapter 13 trustee - If the trustee discovers that the debtor's income has increased (often revealed through tax returns filed during the case), the trustee can move to increase plan payments. Tr"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "Fiduciary fraud and embezzlement - defalcation while acting in a fiduciary capacity, embezzlement, larceny (Section 523(a)(4))"
+          "text": "An unsecured creditor - Less common, but an unsecured creditor who believes the debtor can pay more may request modification. This typically happens when a creditor learns of a significant income inc"
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "Willful and malicious injury - intentional torts (Section 523(a)(6))"
+          "text": "File a modified plan and motion - The requesting party files the proposed modified plan along with a motion explaining the changed circumstances and why modification is necessary. Supporting document"
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "Student loans - unless the debtor can show undue hardship (Section 523(a)(8))"
+          "text": "Notice to all parties - The modified plan must be served on the trustee, all creditors, and any other affected parties. The notice period varies by district but is typically 21 to 28 days."
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "Certain tax debts - depending on age and type (Section 523(a)(1))"
+          "text": "Trustee review - The Chapter 13 trustee reviews the modified plan for compliance with the Code. The trustee may support, oppose, or take no position. If the trustee opposes, they will typically file "
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "DUI/DWI debts - death or personal injury caused by intoxicated driving (Section 523(a)(9))"
+          "text": "Objection period - Creditors and other parties have an opportunity to object to the modified plan. If no objections are filed, many courts will confirm the modified plan without a hearing."
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "File a motion - The debtor (or debtor's attorney) files a motion for hardship discharge under Section 1328(b), along with a supporting declaration or affidavit explaining the circumstances."
+          "text": "Hearing (if needed) - If objections are filed, the court schedules a hearing. The debtor must demonstrate that the modification is justified and that the modified plan satisfies all applicable requir"
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "Provide evidence - The debtor must present evidence supporting all three requirements. Medical records for disability claims. A death certificate if the co-debtor died. Termination letters for job lo"
+          "text": "Order confirming modified plan - If approved, the court enters an order confirming the modified plan. The trustee adjusts distributions accordingly."
         },
         {
           "@type": "HowToStep",
           "position": 10,
-          "text": "Notice to creditors - Creditors and the Chapter 13 trustee must receive notice of the motion and an opportunity to object."
+          "text": "Modify the plan (Section 1329) - Adjust payments, extend the term, or change claim treatment. This preserves the case and the debtor's progress toward a full Section 1328(a) discharge."
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Section 1328(b) Hardship Discharge",
-      "url": "https://section1328.org/1328b-hardship.html",
+      "name": "Modifying Your Chapter 13 Plan Before Discharge",
+      "url": "https://section1328.org/modification-before-discharge.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -214,12 +199,7 @@
     --yellow: #e3a835;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.7;
-  }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
   a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
@@ -288,29 +268,8 @@
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
 </style>
-<link href="https://section1328.org/1328b-hardship.html" hreflang="en" rel="alternate"/>
-<link href="https://section1328.org/1328b-hardship-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://section1328.org/modification-before-discharge.html" hreflang="en" rel="alternate"/>
+<link href="https://section1328.org/modification-before-discharge-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -324,127 +283,120 @@
 <a href="/superdischarge.html">Superdischarge</a>
 <a href="/discharge-bars.html">Discharge Bars</a>
 <a href="/vs-chapter-7.html">vs Chapter 7</a>
-<a class="active" href="/1328b-hardship.html">1328(b) Deep Dive</a>
+<a href="/1328b-hardship.html">1328(b) Deep Dive</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">Section 1328(b) Hardship Discharge</span></h1>
-<p class="subtitle">When you cannot complete your Chapter 13 plan, 1328(b) offers an alternative to dismissal - but you must meet all three requirements</p>
+<h1><span class="accent">Modifying Your Chapter 13 Plan Before Discharge</span></h1>
+<p class="subtitle">Section 1329 allows changes to a confirmed plan - and courts require you to try modification before seeking a hardship discharge</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Section 1328</a> › 1328(b) Hardship Discharge
+<a href="https://1328f.com/">Network</a> › <a href="/">Section 1328</a> › Plan Modification (Section 1329)
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>What Is a Hardship Discharge?</h2>
-<p>A <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy plan typically runs three to five years. During that time, the debtor makes monthly payments to a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee, who distributes the money to creditors according to the confirmed plan. The debtor receives a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under Section 1328(a) only after completing all required payments.</p>
-<p>But life does not always cooperate. Sometimes a debtor who was faithfully making payments for two or three years suffers a catastrophic event - a disabling injury, a terminal diagnosis, the death of a spouse whose income was essential to the plan. When that happens, the debtor faces a choice: dismiss the case and lose all the progress made, or seek a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> under Section 1328(b).</p>
-<p>The <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> exists because Congress recognized that forcing a debtor to choose between <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> and an impossible plan serves no one. If unsecured creditors have already received at least what they would have gotten in a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> liquidation, and the debtor's inability to continue is genuinely not their fault, the law provides a way to close the case with a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> rather than a <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>.</p>
-<p>However, this is not an easy standard to meet. Courts take the three requirements seriously, and the resulting discharge is narrower than the full 1328(a) discharge. The <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> does not include the "superdischarge" provisions that make Chapter 13 attractive for some debtors.</p>
+<h2>What Section 1329 Allows</h2>
+<p>Section 1329 of the Bankruptcy Code permits modification of a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> at any time after confirmation but before the completion of payments. This is one of the most important and most frequently used provisions in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> practice.</p>
+<p>A confirmed <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> is not set in stone. Life changes - income goes up, income goes down, cars break, medical emergencies happen, jobs are lost, spouses leave. Section 1329 gives the debtor, the trustee, and unsecured creditors the ability to adjust the plan to reflect these changed circumstances.</p>
+<p>The connection to <a href="https://www.law.cornell.edu/uscode/text/11/1328" rel="noopener" target="_blank">Section 1328</a> is direct: before a court will grant a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> under Section 1328(b), it must be satisfied that "modification of the plan under section 1329 of this title is not practicable." In other words, you must try modification first. If modification can solve the problem, the <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> is off the table.</p>
 </div>
 <div class="content-section">
-<h2>The Three Requirements - All Must Be Met</h2>
-<p>Section 1328(b) sets out three conditions, and the debtor must satisfy all three to obtain a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a>. Failing on even one is fatal to the request.</p>
-<h3>Requirement 1: Circumstances Beyond the Debtor's Control</h3>
-<p>The statute requires that "the debtor's failure to complete such payments is due to circumstances for which the debtor should not justly be held accountable." 11 U.S.C. Section 1328(b)(1).</p>
-<p>This is the most litigated of the three requirements. Courts look for events that are genuinely outside the debtor's control and that could not have been anticipated or prevented.</p>
+<h2>Who Can Request Modification</h2>
+<p>Section 1329(a) authorizes three parties to request plan modification:</p>
+<ul>
+<li><strong>The debtor</strong> - The most common scenario. The debtor's income has changed, expenses have increased, or circumstances require a different payment structure.</li>
+<li><strong>The <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee</strong> - If the trustee discovers that the debtor's income has increased (often revealed through tax returns filed during the case), the trustee can move to increase plan payments. Trustees have a fiduciary duty to maximize distributions to creditors.</li>
+<li><strong>An <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a></strong> - Less common, but an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> who believes the debtor can pay more may request modification. This typically happens when a creditor learns of a significant income increase or windfall.</li>
+</ul>
+</div>
+<div class="content-section">
+<h2>Common Reasons to Modify</h2>
+<h3>Reducing Payments (Debtor-Initiated)</h3>
+<p><strong>Income decrease:</strong> Job loss, hours cut, pay reduction, disability. If the debtor's income drops significantly and the current payment is no longer feasible, modification is the first remedy to pursue. The modified plan must still satisfy confirmation requirements, but a genuine income decrease usually justifies a payment reduction.</p>
+<p><strong>Increased necessary expenses:</strong> A medical emergency, a necessary car repair, increased childcare costs, or a housing cost increase can all justify reducing the plan payment. The key word is "necessary" - courts will not reduce payments so the debtor can fund discretionary spending.</p>
+<p><strong>Unexpected events:</strong> Divorce during the plan (loss of a co-debtor's income), natural disaster, or other events that fundamentally change the debtor's financial picture.</p>
+<h3>Increasing Payments (Trustee-Initiated)</h3>
+<p><strong>Income increase:</strong> A raise, a new higher-paying job, a spouse who returns to work, or an inheritance. The trustee may learn about income increases through tax returns, pay advices, or tips from creditors. Many districts require annual tax returns to be filed with the trustee specifically so income changes can be monitored.</p>
+<p><strong>Expense decrease:</strong> If a major expense disappears - for example, a car is paid off, a child ages out of daycare, or the debtor refinances a mortgage - the freed-up income may need to flow to unsecured creditors through increased plan payments.</p>
+<h3>Structural Changes</h3>
+<p><strong>Adding a new secured debt:</strong> If the debtor's car dies mid-plan and they need to finance a replacement vehicle, the plan may need to be modified to include the new car payment. This requires court approval.</p>
+<p><strong>Changing claim treatment:</strong> If a creditor's claim is allowed in a different amount than originally estimated, the plan may need to be adjusted.</p>
+<p><strong>Extending the plan term:</strong> The plan can be extended up to the maximum 60-month period (or in some cases, the applicable commitment period). This is often the simplest way to reduce monthly payments - spread the same total over more months.</p>
+</div>
+<div class="content-section">
+<h2>What Can - and Cannot - Be Changed</h2>
 <div class="green-box">
-<p><strong>What qualifies:</strong></p>
-<p>Serious illness or disability that prevents the debtor from working. A disabling car accident, a cancer diagnosis, a stroke - these are the classic examples.</p>
-<p>Death of a spouse or co-debtor whose income was relied upon for plan payments.</p>
-<p>Involuntary job loss - layoff, plant closure, employer bankruptcy. The key word is involuntary.</p>
-<p>Incarceration of the debtor (in some circuits).</p>
-<p>Natural disaster that destroys the debtor's home or business and is not covered by insurance.</p>
+<p><strong>Can be changed through modification:</strong></p>
+<p>Monthly payment amount (up or down)</p>
+<p>Plan length (up to 60 months maximum)</p>
+<p>Distribution to unsecured creditors (percentage or total amount)</p>
+<p>Treatment of specific claims</p>
+<p>Addition of new secured debt (with court approval)</p>
 </div>
 <div class="red-box">
-<p><strong>What does NOT qualify:</strong></p>
-<p>Voluntary job change or quitting. If the debtor chose to leave employment, courts will not find this is a circumstance for which the debtor should not be held accountable.</p>
-<p>Overspending or poor budgeting. If the debtor's income remained sufficient but they chose to spend money elsewhere, this does not qualify.</p>
-<p>Taking on new debt during the plan. Incurring new credit obligations without court approval is the debtor's own choice.</p>
-<p>Failure to maintain insurance when the plan depended on insured assets.</p>
-<p>Divorce alone, unless it caused a genuine and unavoidable income reduction. Some courts distinguish between the divorce itself (a choice) and the resulting economic consequences (which may be involuntary).</p>
+<p><strong>Limitations on modification:</strong></p>
+<p>The modified plan must still satisfy the best interest test - unsecured creditors must receive at least as much as they would in a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> liquidation.</p>
+<p>Priority claims (including domestic support obligations and taxes) must still be paid in full.</p>
+<p>The plan cannot exceed the maximum term allowed (60 months for above-median-income debtors, though some courts allow below-median debtors to extend to 60 months through modification).</p>
+<p>Some courts apply a "substantial and unanticipated change in circumstances" test - the debtor must show that something meaningful changed since confirmation, not just that they want different terms.</p>
 </div>
-<p>The standard is not impossibility - the debtor does not have to show that continuing payments is literally impossible. But the debtor must show that the circumstances are serious, involuntary, and the genuine cause of the inability to complete the plan.</p>
-<h3>Requirement 2: The Best Interest Test</h3>
-<p>Section 1328(b)(2) requires that "the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under <a href="https://whatischapter7.com/" title="Chapter 7">chapter 7</a>."</p>
-<p>In plain English: unsecured creditors must have received at least as much through the <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> as they would have received if the debtor had filed Chapter 7 instead.</p>
-<p>This is the same "best interest of creditors" test that applies at <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a> under Section 1325(a)(4). The difference is that at the <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> stage, the court looks at what has actually been distributed, not what is projected to be distributed.</p>
-<p>How this works in practice: if the debtor has no non-exempt assets (which is common), then unsecured creditors would have received nothing in a Chapter 7 liquidation. In that case, even minimal payments through the <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> will satisfy the best interest test. But if the debtor owned substantial non-exempt property - equity in a home above the homestead exemption, valuable vehicles, investment accounts - then the Chapter 7 liquidation value could be significant, and the debtor may need to have paid a substantial amount before this requirement is met.</p>
-<h3>Requirement 3: Modification Must Be Impracticable</h3>
-<p>Section 1328(b)(3) requires that "modification of the plan under section 1329 of this title is not practicable."</p>
-<p>This is the gatekeeping requirement. Before the court will grant a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a>, it needs to know that the debtor has considered - and rejected as unworkable - the alternative of simply modifying the plan.</p>
-<p>Section 1329 allows plan modification after confirmation. The debtor can reduce monthly payments, extend the plan term (up to 60 months), or change the treatment of specific claims. If any of these modifications would allow the debtor to complete the plan, the court will deny the <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship discharge</a> and direct the debtor to modify instead.</p>
-<p>When is modification impracticable? When the debtor's income has dropped to zero or near-zero permanently. If a debtor is permanently disabled and receiving only minimal Social Security disability income, no amount of plan modification will generate the payments needed to complete the plan. That is when modification is truly impracticable.</p>
-<p>When is modification still an option? If the debtor lost a job but is actively seeking employment. If the debtor's income dropped but could sustain reduced payments over an extended term. If the debtor has other sources of income that could be redirected. Courts expect debtors to exhaust the modification option before seeking the more drastic remedy of a <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship discharge</a>.</p>
 </div>
 <div class="content-section">
-<h2>The Hardship Discharge Is Narrower Than a Full Discharge</h2>
-<p>This is the critical point that many debtors do not understand until it is too late: the hardship discharge under Section 1328(b) does NOT include the Chapter 13 "superdischarge" provisions.</p>
-<p>Under Section 1328(c)(2), a hardship discharge does not discharge any debt that would be excepted from discharge under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a> in a Chapter 7 case. This means the hardship discharge has essentially the same scope as a Chapter 7 discharge.</p>
-<p>Debts that survive a hardship discharge include:</p>
-<ul>
-<li><strong>Domestic support obligations</strong> - child support, alimony, spousal maintenance (<a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(5))</li>
-<li><strong>Debts obtained by fraud</strong> - false pretenses, false representations, actual fraud (<a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2))</li>
-<li><strong>Fiduciary fraud and embezzlement</strong> - defalcation while acting in a fiduciary capacity, embezzlement, larceny (<a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(4))</li>
-<li><strong>Willful and malicious injury</strong> - intentional torts (<a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(6))</li>
-<li><strong><a href="https://bankruptcystudentloans.org/" title="student loans">Student loans</a></strong> - unless the debtor can show undue hardship (<a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(8))</li>
-<li><strong>Certain tax debts</strong> - depending on age and type (<a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(1))</li>
-<li><strong>DUI/DWI debts</strong> - death or personal injury caused by intoxicated driving (<a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(9))</li>
-</ul>
-<p>By contrast, the full 1328(a) discharge - available only after completing all plan payments - can discharge certain property settlement obligations from divorce (Section 523(a)(15) debts) that survive both Chapter 7 and hardship discharges. This is one of the remaining "superdischarge" advantages of completing a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>.</p>
-</div>
-<div class="content-section">
-<h2>The Process: How to Request a Hardship Discharge</h2>
-<p>The hardship discharge is not automatic. The debtor must affirmatively request it by filing a motion with the bankruptcy court. Here is the typical process:</p>
+<h2>The Modification Process</h2>
 <ol>
-<li><strong>File a motion</strong> - The debtor (or debtor's attorney) files a motion for hardship discharge under Section 1328(b), along with a supporting declaration or affidavit explaining the circumstances.</li>
-<li><strong>Provide evidence</strong> - The debtor must present evidence supporting all three requirements. Medical records for disability claims. A death certificate if the co-debtor died. Termination letters for job loss. A comparison of what unsecured creditors received versus what they would have received in Chapter 7. An explanation of why plan modification would not work.</li>
-<li><strong>Notice to creditors</strong> - Creditors and the Chapter 13 trustee must receive notice of the motion and an opportunity to object.</li>
-<li><strong>Trustee's position</strong> - The Chapter 13 trustee will review the motion and may support it, oppose it, or take no position. The trustee's view carries significant weight with many judges because the trustee has direct knowledge of the debtor's payment history and financial situation.</li>
-<li><strong>Hearing</strong> - The court will schedule a hearing. The debtor may need to testify. If creditors object, they will have an opportunity to cross-examine the debtor and present their own evidence.</li>
-<li><strong>Court ruling</strong> - The judge decides whether all three requirements are met. If yes, the court enters a hardship discharge order. If no, the debtor must either modify the plan, continue payments, or the case may be dismissed.</li>
+<li><strong>File a modified plan and motion</strong> - The requesting party files the proposed modified plan along with a motion explaining the changed circumstances and why modification is necessary. Supporting documentation (pay stubs, medical records, termination letter, tax returns) should accompany the motion.</li>
+<li><strong>Notice to all parties</strong> - The modified plan must be served on the trustee, all creditors, and any other affected parties. The notice period varies by district but is typically 21 to 28 days.</li>
+<li><strong>Trustee review</strong> - The Chapter 13 trustee reviews the modified plan for compliance with the Code. The trustee may support, oppose, or take no position. If the trustee opposes, they will typically file an objection explaining why the modified plan fails to meet confirmation standards.</li>
+<li><strong>Objection period</strong> - Creditors and other parties have an opportunity to object to the modified plan. If no objections are filed, many courts will confirm the modified plan without a hearing.</li>
+<li><strong>Hearing (if needed)</strong> - If objections are filed, the court schedules a hearing. The debtor must demonstrate that the modification is justified and that the modified plan satisfies all applicable requirements.</li>
+<li><strong>Order confirming modified plan</strong> - If approved, the court enters an order confirming the modified plan. The trustee adjusts distributions accordingly.</li>
 </ol>
 </div>
 <div class="content-section">
-<h2>Strategic Considerations</h2>
-<p><strong>Timing matters.</strong> A debtor who has made three years of payments and then becomes disabled has a much stronger case than a debtor who stopped paying after six months. The longer the payment history, the more likely the best interest test is satisfied and the more sympathetic the court will be to the circumstances.</p>
-<p><strong>Documentation is everything.</strong> Vague claims of hardship will not succeed. The debtor needs medical records, employer letters, financial statements, and any other documentation that proves the circumstances are genuine, involuntary, and permanent (or at least long-lasting).</p>
-<p><strong>Consider the alternatives.</strong> Before filing a hardship discharge motion, evaluate whether plan modification under Section 1329 could work. Extending the plan to 60 months, reducing payments, or changing claim treatment might be a better path - especially because it preserves the full 1328(a) discharge scope including the superdischarge provisions.</p>
-<p><strong>Conversion to Chapter 7.</strong> In some situations, converting the case to Chapter 7 under Section 1307(a) may be preferable to a hardship discharge. If the debtor qualifies for Chapter 7 (passes the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> or qualifies under the totality of circumstances), conversion produces a similar discharge scope and may be procedurally simpler. However, conversion exposes non-exempt assets to liquidation, which may not be acceptable.</p>
+<h2>Modification as an Alternative to Dismissal or Hardship Discharge</h2>
+<p>When a debtor encounters financial difficulty during the plan, there are three main options:</p>
+<ul>
+<li><strong>Modify the plan (Section 1329)</strong> - Adjust payments, extend the term, or change claim treatment. This preserves the case and the debtor's progress toward a full Section 1328(a) <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</li>
+<li><strong>Seek a <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship discharge</a> (Section 1328(b))</strong> - If modification is not practicable, the debtor can request a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a>. But this produces a narrower <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> without superdischarge provisions. See <a href="/1328b-hardship.html">our 1328(b) deep dive</a> for details.</li>
+<li><strong>Dismiss or convert the case</strong> - <a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> ends the case without a discharge. Conversion to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> produces a Chapter 7 discharge but exposes non-exempt assets to liquidation.</li>
+</ul>
+<p>Modification should always be the first option considered. It preserves the full scope of the 1328(a) discharge, maintains the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, and allows the debtor to continue making progress on secured debt obligations like mortgage cures and vehicle cramdowns.</p>
+<div class="green-box">
+<p><strong>The trap to watch for:</strong> If the debtor has already modified the plan to extend to 60 months and circumstances change again, the modification option narrows significantly. There is no room to extend further. At that point, the debtor may need to seek a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> or face <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>. This is why experienced practitioners counsel debtors to keep some term extension in reserve for unexpected future problems.</p>
+</div>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
 <details>
-<summary>What is a hardship discharge?</summary>
+<summary>Can I lower my Chapter 13 payment?</summary>
 <div class="faq-answer">
-<p>A hardship discharge under 11 U.S.C. Section 1328(b) allows a Chapter 13 debtor to receive a discharge without completing all plan payments. It requires meeting three conditions: the failure to complete payments is due to circumstances beyond the debtor's control, unsecured creditors have received at least as much as they would have in a Chapter 7 liquidation, and modification of the plan is not practicable. The resulting discharge is narrower than a full Chapter 13 discharge - it has essentially the same scope as a Chapter 7 discharge.</p>
+<p>Yes, if your financial circumstances have genuinely changed since the plan was confirmed. Section 1329 allows modification of the plan to reduce payments. Common justifications include job loss, income reduction, increased necessary expenses, or medical emergency. File a motion to modify with supporting documentation. The modified plan must still satisfy the best interest test and other confirmation requirements.</p>
 </div>
 </details>
 <details>
-<summary>Do I have to try plan modification before requesting a hardship discharge?</summary>
+<summary>Can the trustee increase my payment?</summary>
 <div class="faq-answer">
-<p>Yes. Section 1328(b)(3) requires that modification of the plan under Section 1329 must not be practicable. Courts generally expect the debtor to demonstrate that modification has been considered and rejected as unworkable. If your income has permanently dropped to zero due to disability, modification clearly would not help. But if your income merely decreased and could sustain reduced payments over an extended term, the court will likely direct you to modify rather than grant a hardship discharge.</p>
+<p>Yes. Section 1329(a) allows the trustee or any unsecured creditor to request plan modification, not just the debtor. If the trustee discovers your income has increased - through tax returns, pay advices, or other means - the trustee can file a motion to increase your plan payments. This is one reason districts require annual tax return filings with the trustee.</p>
 </div>
 </details>
 <details>
-<summary>What debts survive a hardship discharge?</summary>
+<summary>How many times can I modify my plan?</summary>
 <div class="faq-answer">
-<p>A hardship discharge under Section 1328(b) has the same scope as a Chapter 7 discharge. All debts listed in Section 523(a) survive, including: domestic support obligations (child support, alimony), debts obtained by fraud, fiduciary fraud and embezzlement, willful and malicious injury, <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a> (absent undue hardship), certain tax debts, and DUI/DWI injury debts. The hardship discharge does NOT include the Chapter 13 superdischarge provisions.</p>
+<p>The statute does not set a specific limit on the number of modifications. However, courts may view repeated modifications with skepticism, particularly if each one reduces payments. Each modification must be justified by genuine changed circumstances and must satisfy confirmation standards. Most cases involve zero to two modifications over the life of the plan.</p>
 </div>
 </details>
 <details>
-<summary>How much do I need to have paid into the plan to get a hardship discharge?</summary>
+<summary>Do I need a lawyer to modify my <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a>?</summary>
 <div class="faq-answer">
-<p>There is no minimum payment percentage specified in the statute. The requirement is that unsecured creditors must have received at least as much as they would have received in a Chapter 7 liquidation (the best interest test). If the debtor has no non-exempt assets - which is common - then unsecured creditors would have received nothing in Chapter 7, and even minimal plan payments will satisfy this test. If the debtor had substantial non-exempt assets, more plan payments may be needed before this requirement is met.</p>
+<p>You are not legally required to have a lawyer. <a href="https://prosebankruptcy.org/" title="pro se">Pro se</a> debtors can file modification motions themselves. However, plan modification involves technical requirements - the modified plan must satisfy the best interest test, the feasibility test, and other confirmation standards under Section 1325(a) as made applicable by Section 1329(b)(1). Errors can result in denial of the modification or case dismissal. If you have an attorney of record, they typically handle modifications as part of their ongoing representation. For more on <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> representation, see <a href="https://prosedebtors.org">prosedebtors.org</a>.</p>
 </div>
 </details>
 </div>
 <div class="cta-box">
 <h3>Related Resources</h3>
-<p>Explore more about hardship options and plan modification in Chapter 13 bankruptcy.</p>
 <div class="cta-links">
-<a class="primary-btn" href="https://bankruptcyhardship.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Hardship Discharge Guide</a>
-<a class="secondary-btn" href="https://chapter13plan.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Chapter 13 Plans</a>
+<a class="primary-btn" href="https://chapter13plan.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Chapter 13 Plans</a>
+<a class="secondary-btn" href="https://bankruptcyhardship.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Hardship Discharge</a>
 </div>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
@@ -458,10 +410,10 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Cross-Network Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcyhardship.org" style="color:#58a6ff">bankruptcyhardship.org</a> - Dedicated site for Chapter 13 hardship discharge guidance</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://chapter13plan.org" style="color:#58a6ff">chapter13plan.org</a> - How Chapter 13 repayment plans work, including modification</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://chapter13plan.org" style="color:#58a6ff">chapter13plan.org</a> - How Chapter 13 plans work, including initial plan requirements</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcyhardship.org" style="color:#58a6ff">bankruptcyhardship.org</a> - When modification is not enough and <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> is needed</p>
 <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://dismissedbankruptcy.org" style="color:#58a6ff">dismissedbankruptcy.org</a> - What happens when a Chapter 13 case is dismissed</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org</a> - The <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> and Chapter 7 eligibility (relevant if considering conversion)</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org</a> - The <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> and how it affects plan length requirements</p>
 </div>
 <p class="updated">Last updated: March 2026</p>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -473,9 +425,6 @@
 <li><a href="https://chapter7vs13.org" style="color:#58a6ff;text-decoration:none">Chapter 7 vs Chapter 13 Comparison</a></li>
 <li><a href="https://524injunction.org" style="color:#58a6ff;text-decoration:none">524 Discharge Injunction</a></li>
 </ul>
-</div>
-<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
-<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
 </div>
 </main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -526,7 +475,7 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=section1328.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=section1328.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=section1328.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=section1328.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
@@ -567,7 +516,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

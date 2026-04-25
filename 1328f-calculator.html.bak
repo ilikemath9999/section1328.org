@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Modifying Your Chapter 13 Plan Before Discharge - Section 1329</title>
-<meta content="Learn about modifying your chapter 13 plan before discharge - section 1329 | section1328.org in our free 2026 guide." name="description"/>
-<meta content="modify chapter 13 plan before discharge 1329, chapter 13 plan modification, lower chapter 13 payment, section 1329" name="keywords"/>
-<link href="https://section1328.org/modification-before-discharge.html" rel="canonical"/>
+<title>Section 1328(f) Discharge Eligibility Calculator</title>
+<meta content="Free calculator to determine your earliest eligible filing date for a new Chapter 13 with discharge under the Section 1328(f) timing bars." name="description"/>
+<meta content="1328(f) discharge eligibility calculator, chapter 13 discharge bar calculator, bankruptcy timing bar, 1328f calculator" name="keywords"/>
+<link href="https://section1328.org/1328f-calculator.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="Modifying Your Chapter 13 Plan Before Discharge - Section 1329" property="og:title"/>
-<meta content="Learn about modifying your chapter 13 plan before discharge - section 1329 | section1328.org in our free 2026 guide." property="og:description"/>
-<meta content="article" property="og:type"/>
-<meta content="https://section1328.org/modification-before-discharge.html" property="og:url"/>
+<meta content="Section 1328(f) Discharge Eligibility Calculator" property="og:title"/>
+<meta content="Free calculator to determine your earliest eligible filing date for a new Chapter 13 with discharge under the Section 1328(f) timing bars." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://section1328.org/1328f-calculator.html" property="og:url"/>
 <meta content="section1328.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Modifying Your Chapter 13 Plan Before Discharge - Section 1329" name="twitter:title"/>
-<meta content="Learn about modifying your chapter 13 plan before discharge - section 1329 | section1328.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Section 1328(f) Discharge Eligibility Calculator" name="twitter:title"/>
+<meta content="Free calculator to determine your earliest eligible filing date for a new Chapter 13 with discharge under the Section 1328(f) timing bars." name="twitter:description"/>
 <meta content="https://section1328.org/og-image.svg" property="og:image"/>
 <meta content="https://section1328.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -45,9 +45,24 @@
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Network", "item": "https://1328f.com/"},
-    {"@type": "ListItem", "position": 2, "name": "Section 1328", "item": "https://section1328.org/"},
-    {"@type": "ListItem", "position": 3, "name": "Plan Modification", "item": "https://section1328.org/modification-before-discharge.html"}
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Network",
+      "item": "https://1328f.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Section 1328",
+      "item": "https://section1328.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "1328(f) Calculator",
+      "item": "https://section1328.org/1328f-calculator.html"
+    }
   ]
 }
 </script>
@@ -59,34 +74,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Can I lower my Chapter 13 payment?",
+      "name": "What is the 1328(f) discharge bar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, if your financial circumstances have changed. Section 1329 allows the debtor to request modification of the plan after confirmation. Common reasons include job loss, income reduction, increased necessary expenses, or medical emergency. The modified plan must still satisfy the best interest test and other confirmation requirements. File a motion to modify with the court and provide evidence of the changed circumstances."
+        "text": "Section 1328(f) prevents a debtor from receiving a Chapter 13 discharge if they received a prior discharge too recently. Under 1328(f)(1), the bar is 4 years if the prior discharge was Chapter 7, 11, or 12. Under 1328(f)(2), the bar is 2 years if the prior discharge was Chapter 13. The clock runs from filing date to filing date."
       }
     },
     {
       "@type": "Question",
-      "name": "Can the trustee increase my payment?",
+      "name": "Can I still file Chapter 13 during the bar period?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Section 1329(a) allows the trustee or any unsecured creditor to request plan modification, not just the debtor. If the trustee learns that the debtor's income has increased significantly - for example, a raise, a new job, or an inheritance - the trustee can file a motion to modify the plan to increase payments to unsecured creditors. Tax returns filed during the plan often reveal income changes."
+        "text": "Yes. Section 1328(f) is a discharge bar, not a filing bar. You can file a Chapter 13 case during the bar period and still receive the benefits of the automatic stay, stop foreclosure, and restructure debts. However, you will not receive a discharge at the end of the plan, meaning your personal liability on dischargeable debts will continue after the case closes."
       }
     },
     {
       "@type": "Question",
-      "name": "How many times can I modify my plan?",
+      "name": "Does 1328(f) run from filing date or discharge date?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The statute does not set a specific limit on the number of modifications. However, courts may lose patience with repeated modifications, particularly if they always reduce payments. Each modification must be justified by changed circumstances and must still satisfy confirmation requirements. As a practical matter, most cases involve zero to two modifications."
+        "text": "The 1328(f) bars run from the filing date of the prior case to the filing date of the new case. This is a common source of confusion - many people assume the clock starts from the date they received their discharge, but the statute clearly measures from filing date to filing date."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need a lawyer to modify my Chapter 13 plan?",
+      "name": "What is the difference between 1328(f)(1) and 1328(f)(2)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You are not legally required to have a lawyer to file a plan modification. Pro se debtors can file the motion themselves. However, plan modification involves technical requirements - the modified plan must still satisfy the best interest test, the feasibility test, and other confirmation standards. Mistakes can result in denial of the modification or even dismissal of the case. If you have an attorney on record, they typically handle modifications as part of their representation."
+        "text": "Section 1328(f)(1) applies when the prior discharge was under Chapter 7 (Section 727), Chapter 11 (Section 1141), or Chapter 12 (Section 1228). The bar period is 4 years. Section 1328(f)(2) applies when the prior discharge was under Chapter 13 (Section 1328). The bar period is 2 years. Both are measured filing date to filing date."
       }
     }
   ]
@@ -98,8 +113,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Modifying Your Chapter 13 Plan Before Discharge",
-      "description": "How to modify a Chapter 13 plan after confirmation but before discharge under Section 1329. Covers payment changes, extensions, and when modification is the bet",
+      "headline": "Section 1328(f) Discharge Eligibility Calculator",
+      "description": "Free calculator to determine your earliest eligible filing date for a new Chapter 13 with discharge under the Section 1328(f) timing bars.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -111,68 +126,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://section1328.org/modification-before-discharge.html"
-    },
-    {
-      "@type": "HowTo",
-      "name": "Modifying Your Chapter 13 Plan Before Discharge",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nModifying Your Chapter 13 Plan Before Discharge "
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "The Chapter 13 trustee - If the trustee discovers that the debtor's income has increased (often revealed through tax returns filed during the case), the trustee can move to increase plan payments. Tr"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "An unsecured creditor - Less common, but an unsecured creditor who believes the debtor can pay more may request modification. This typically happens when a creditor learns of a significant income inc"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "File a modified plan and motion - The requesting party files the proposed modified plan along with a motion explaining the changed circumstances and why modification is necessary. Supporting document"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Notice to all parties - The modified plan must be served on the trustee, all creditors, and any other affected parties. The notice period varies by district but is typically 21 to 28 days."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Trustee review - The Chapter 13 trustee reviews the modified plan for compliance with the Code. The trustee may support, oppose, or take no position. If the trustee opposes, they will typically file "
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "Objection period - Creditors and other parties have an opportunity to object to the modified plan. If no objections are filed, many courts will confirm the modified plan without a hearing."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "Hearing (if needed) - If objections are filed, the court schedules a hearing. The debtor must demonstrate that the modification is justified and that the modified plan satisfies all applicable requir"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "Order confirming modified plan - If approved, the court enters an order confirming the modified plan. The trustee adjusts distributions accordingly."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "Modify the plan (Section 1329) - Adjust payments, extend the term, or change claim treatment. This preserves the case and the debtor's progress toward a full Section 1328(a) discharge."
-        }
-      ]
+      "mainEntityOfPage": "https://section1328.org/1328f-calculator.html"
     },
     {
       "@type": "WebPage",
-      "name": "Modifying Your Chapter 13 Plan Before Discharge",
-      "url": "https://section1328.org/modification-before-discharge.html",
+      "name": "Section 1328(f) Discharge Eligibility Calculator",
+      "url": "https://section1328.org/1328f-calculator.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -199,7 +158,12 @@
     --yellow: #e3a835;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
   a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
@@ -231,9 +195,22 @@
   .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .green-box p { margin-bottom: 0.5rem; }
   .green-box p:last-child { margin-bottom: 0; }
-  .red-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
-  .red-box p { margin-bottom: 0.5rem; }
-  .red-box p:last-child { margin-bottom: 0; }
+  .calc-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; }
+  .calc-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 1rem; text-align: center; }
+  .calc-field { margin-bottom: 1.25rem; }
+  .calc-field label { display: block; color: #f0f6fc; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.4rem; }
+  .calc-field input, .calc-field select { width: 100%; padding: 0.6rem 0.75rem; background: #21262d; border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-size: 1rem; }
+  .calc-field input:focus, .calc-field select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .calc-btn { display: block; width: 100%; padding: 0.75rem; background: #238636; color: #fff; border: none; border-radius: 6px; font-size: 1rem; font-weight: 600; cursor: pointer; margin-top: 1rem; }
+  .calc-btn:hover { background: #2ea043; }
+  .calc-result { margin-top: 1.25rem; padding: 1.25rem; border-radius: 6px; display: none; }
+  .calc-result.show { display: block; }
+  .calc-result.eligible { background: #21262d; border-left: 3px solid var(--green); }
+  .calc-result.barred { background: #21262d; border-left: 3px solid var(--red); }
+  .calc-result.no-bar { background: #21262d; border-left: 3px solid var(--accent); }
+  .calc-result p { margin-bottom: 0.5rem; font-size: 0.95rem; }
+  .calc-result p:last-child { margin-bottom: 0; }
+  .calc-result .result-title { font-weight: 700; font-size: 1.05rem; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -261,6 +238,7 @@
     header h1 { font-size: 1.5rem; }
     main { padding: 1.5rem 1rem; }
     .content-section { padding: 1.25rem; }
+    .calc-box { padding: 1.25rem; }
     nav { padding: 0.75rem 1rem; }
     .hamburger { display: block; }
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
@@ -268,26 +246,26 @@
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
 </style>
-<link href="https://section1328.org/modification-before-discharge.html" hreflang="en" rel="alternate"/>
-<link href="https://section1328.org/modification-before-discharge-es.html" hreflang="es" rel="alternate"/>
+<link href="https://section1328.org/1328f-calculator.html" hreflang="en" rel="alternate"/>
+<link href="https://section1328.org/1328f-calculator-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
+  "@type": "WebApplication",
+  "name": "Section 1328(f) Discharge Eligibility Calculator",
+  "description": "Free calculator to determine your earliest eligible filing date for a new Chapter 13 with discharge under the Section 1328(f) timing bars.",
+  "url": "https://section1328.org/1328f-calculator.html",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
   }
 }
 </script>
@@ -308,117 +286,103 @@
 </div>
 </nav>
 <header>
-<h1><span class="accent">Modifying Your Chapter 13 Plan Before Discharge</span></h1>
-<p class="subtitle">Section 1329 allows changes to a confirmed plan - and courts require you to try modification before seeking a hardship discharge</p>
+<h1><span class="accent"><a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a> Discharge Eligibility Calculator</span></h1>
+<p class="subtitle">Check whether the Chapter 13 discharge timing bars affect your ability to receive a discharge in a new case</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Section 1328</a> › Plan Modification (Section 1329)
+<a href="https://1328f.com/">Network</a> › <a href="/">Section 1328</a> › 1328(f) Calculator
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>What Section 1329 Allows</h2>
-<p>Section 1329 of the Bankruptcy Code permits modification of a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> at any time after confirmation but before the completion of payments. This is one of the most important and most frequently used provisions in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> practice.</p>
-<p>A confirmed <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> is not set in stone. Life changes - income goes up, income goes down, cars break, medical emergencies happen, jobs are lost, spouses leave. Section 1329 gives the debtor, the trustee, and unsecured creditors the ability to adjust the plan to reflect these changed circumstances.</p>
-<p>The connection to <a href="https://www.law.cornell.edu/uscode/text/11/1328" rel="noopener" target="_blank">Section 1328</a> is direct: before a court will grant a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> under Section 1328(b), it must be satisfied that "modification of the plan under section 1329 of this title is not practicable." In other words, you must try modification first. If modification can solve the problem, the <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> is off the table.</p>
+<h2>The Two Section 1328(f) Discharge Bars</h2>
+<p><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a> contains two separate timing bars that can prevent a debtor from receiving a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. Both were added by the Bankruptcy Abuse Prevention and Consumer Protection Act (<a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a>) in 2005.</p>
+<h3>1328(f)(1) - Prior Chapter 7, 11, or 12 Discharge</h3>
+<p>A debtor may not receive a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> if the debtor received a discharge under <a href="https://727a8.com" rel="noopener" target="_blank" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project">Section 727</a> (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>), <a href="https://www.law.cornell.edu/uscode/text/11/1141" rel="noopener" target="_blank">Section 1141</a> (<a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>), or Section 1228 (Chapter 12) in a case filed within four years before the date of the filing of the current Chapter 13 case.</p>
+<p>The four-year clock runs from the filing date of the prior case to the filing date of the new case. It does not run from the discharge date. This is a critical distinction that is frequently misunderstood.</p>
+<h3>1328(f)(2) - Prior Chapter 13 Discharge</h3>
+<p>A debtor may not receive a Chapter 13 discharge if the debtor received a prior Chapter 13 discharge under <a href="https://www.law.cornell.edu/uscode/text/11/1328" rel="noopener" target="_blank">Section 1328</a> in a case filed within two years before the date of the filing of the current case.</p>
+<p>Again, the two-year clock runs filing date to filing date. Because Chapter 13 plans run three to five years, the two-year bar rarely prevents a subsequent Chapter 13 filing from receiving a discharge - by the time the first plan is complete and the discharge is entered, two years have almost certainly passed since the first case was filed.</p>
+</div>
+<div class="calc-box">
+<h3>Discharge Eligibility Calculator</h3>
+<div class="calc-field">
+<label for="prior-date">Prior case filing date:</label>
+<input aria-describedby="date-help" id="prior-date" type="date"/>
+<p id="date-help" style="color:var(--text-muted);font-size:0.8rem;margin-top:0.25rem;">The date the prior bankruptcy case was filed (not the discharge date).</p>
+</div>
+<div class="calc-field">
+<label for="prior-chapter">Prior case chapter:</label>
+<select id="prior-chapter">
+<option value="">-- Select --</option>
+<option value="7">Chapter 7</option>
+<option value="11">Chapter 11</option>
+<option value="12">Chapter 12</option>
+<option value="13">Chapter 13</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="got-discharge">Was a discharge received in the prior case?</label>
+<select id="got-discharge">
+<option value="">-- Select --</option>
+<option value="yes">Yes</option>
+<option value="no">No</option>
+</select>
+</div>
+<button class="calc-btn" onclick="calculate1328f()">Calculate Eligibility</button>
+<div class="calc-result" id="calc-result"></div>
 </div>
 <div class="content-section">
-<h2>Who Can Request Modification</h2>
-<p>Section 1329(a) authorizes three parties to request plan modification:</p>
+<h2>Filing During the Bar Period</h2>
+<p>An important point that confuses many people: <a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a> is a <strong><a href="https://dischargebar.org/" title="discharge bar">discharge bar</a></strong>, not a <strong>filing bar</strong>. You can file a Chapter 13 case at any time, regardless of prior discharge history. The question is whether you will receive a discharge at the end of the plan.</p>
+<p>Why would someone file Chapter 13 knowing they cannot get a discharge? There are several legitimate reasons:</p>
 <ul>
-<li><strong>The debtor</strong> - The most common scenario. The debtor's income has changed, expenses have increased, or circumstances require a different payment structure.</li>
-<li><strong>The <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee</strong> - If the trustee discovers that the debtor's income has increased (often revealed through tax returns filed during the case), the trustee can move to increase plan payments. Trustees have a fiduciary duty to maximize distributions to creditors.</li>
-<li><strong>An <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a></strong> - Less common, but an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> who believes the debtor can pay more may request modification. This typically happens when a creditor learns of a significant income increase or windfall.</li>
+<li><strong><a href="https://automaticstay.org/" title="automatic stay">Automatic stay</a> protection</strong> - Filing triggers the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>, which stops collection actions, foreclosure, <a href="https://garnishedwages.org" rel="noopener" target="_blank" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project">wage garnishment</a>, and repossession (though the stay may be limited for serial filers under Sections 362(c)(3) and (c)(4)).</li>
+<li><strong>Stopping foreclosure</strong> - A <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> can cure mortgage arrears over the plan term, even without a discharge. The debtor can save their home by making current payments plus arrears through the plan.</li>
+<li><strong>Restructuring secured debt</strong> - Vehicle loans and other secured debts can be restructured through the plan. Even without a discharge of personal liability, the debtor gets the benefit of the restructured payment terms during the plan.</li>
+<li><strong>Buying time</strong> - Some debtors file during the bar period simply to gain time to reorganize their finances under the protection of the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, knowing the <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> will expire before the plan is complete.</li>
 </ul>
 </div>
 <div class="content-section">
-<h2>Common Reasons to Modify</h2>
-<h3>Reducing Payments (Debtor-Initiated)</h3>
-<p><strong>Income decrease:</strong> Job loss, hours cut, pay reduction, disability. If the debtor's income drops significantly and the current payment is no longer feasible, modification is the first remedy to pursue. The modified plan must still satisfy confirmation requirements, but a genuine income decrease usually justifies a payment reduction.</p>
-<p><strong>Increased necessary expenses:</strong> A medical emergency, a necessary car repair, increased childcare costs, or a housing cost increase can all justify reducing the plan payment. The key word is "necessary" - courts will not reduce payments so the debtor can fund discretionary spending.</p>
-<p><strong>Unexpected events:</strong> Divorce during the plan (loss of a co-debtor's income), natural disaster, or other events that fundamentally change the debtor's financial picture.</p>
-<h3>Increasing Payments (Trustee-Initiated)</h3>
-<p><strong>Income increase:</strong> A raise, a new higher-paying job, a spouse who returns to work, or an inheritance. The trustee may learn about income increases through tax returns, pay advices, or tips from creditors. Many districts require annual tax returns to be filed with the trustee specifically so income changes can be monitored.</p>
-<p><strong>Expense decrease:</strong> If a major expense disappears - for example, a car is paid off, a child ages out of daycare, or the debtor refinances a mortgage - the freed-up income may need to flow to unsecured creditors through increased plan payments.</p>
-<h3>Structural Changes</h3>
-<p><strong>Adding a new secured debt:</strong> If the debtor's car dies mid-plan and they need to finance a replacement vehicle, the plan may need to be modified to include the new car payment. This requires court approval.</p>
-<p><strong>Changing claim treatment:</strong> If a creditor's claim is allowed in a different amount than originally estimated, the plan may need to be adjusted.</p>
-<p><strong>Extending the plan term:</strong> The plan can be extended up to the maximum 60-month period (or in some cases, the applicable commitment period). This is often the simplest way to reduce monthly payments - spread the same total over more months.</p>
+<h2>Common Misconceptions</h2>
+<p><strong>Misconception: The clock runs from discharge date.</strong> Wrong. Both 1328(f)(1) and 1328(f)(2) measure from the filing date of the prior case to the filing date of the new case. If you filed <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> on January 1, 2022, and received your discharge on May 1, 2022, the four-year bar expires on January 1, 2026 - not May 1, 2026.</p>
+<p><strong>Misconception: You cannot file at all during the bar period.</strong> Wrong. You can file. You just cannot receive a discharge. The filing itself is permitted, and the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and other benefits of the case still apply (subject to <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Serial Bankruptcy Filers - Open Bankruptcy Project">serial filer</a> limitations).</p>
+<p><strong>Misconception: 1328(f) applies even without a prior discharge.</strong> Wrong. If the prior case was dismissed without a discharge - whether voluntarily or involuntarily - Section 1328(f) does not apply. The bar only kicks in when the debtor actually "received a discharge" in the prior case.</p>
+<p><strong>Misconception: The bars overlap with <a href="https://727a8.com/" title="Section 727(a)(8)">727(a)(8)</a>.</strong> <a href="https://727a8.com" rel="noopener" target="_blank" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project">Section 727</a>(a)(8) is the separate eight-year bar on Chapter 7 discharges. It applies to Chapter 7 cases, while 1328(f) applies to Chapter 13 cases. They are different statutes governing different chapters. For a complete picture of all four <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> combinations, see the <a href="https://1328f.com">1328f.com screener</a> or <a href="https://dischargebar.org">dischargebar.org</a>.</p>
 </div>
-<div class="content-section">
-<h2>What Can - and Cannot - Be Changed</h2>
-<div class="green-box">
-<p><strong>Can be changed through modification:</strong></p>
-<p>Monthly payment amount (up or down)</p>
-<p>Plan length (up to 60 months maximum)</p>
-<p>Distribution to unsecured creditors (percentage or total amount)</p>
-<p>Treatment of specific claims</p>
-<p>Addition of new secured debt (with court approval)</p>
-</div>
-<div class="red-box">
-<p><strong>Limitations on modification:</strong></p>
-<p>The modified plan must still satisfy the best interest test - unsecured creditors must receive at least as much as they would in a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> liquidation.</p>
-<p>Priority claims (including domestic support obligations and taxes) must still be paid in full.</p>
-<p>The plan cannot exceed the maximum term allowed (60 months for above-median-income debtors, though some courts allow below-median debtors to extend to 60 months through modification).</p>
-<p>Some courts apply a "substantial and unanticipated change in circumstances" test - the debtor must show that something meaningful changed since confirmation, not just that they want different terms.</p>
-</div>
-</div>
-<div class="content-section">
-<h2>The Modification Process</h2>
-<ol>
-<li><strong>File a modified plan and motion</strong> - The requesting party files the proposed modified plan along with a motion explaining the changed circumstances and why modification is necessary. Supporting documentation (pay stubs, medical records, termination letter, tax returns) should accompany the motion.</li>
-<li><strong>Notice to all parties</strong> - The modified plan must be served on the trustee, all creditors, and any other affected parties. The notice period varies by district but is typically 21 to 28 days.</li>
-<li><strong>Trustee review</strong> - The Chapter 13 trustee reviews the modified plan for compliance with the Code. The trustee may support, oppose, or take no position. If the trustee opposes, they will typically file an objection explaining why the modified plan fails to meet confirmation standards.</li>
-<li><strong>Objection period</strong> - Creditors and other parties have an opportunity to object to the modified plan. If no objections are filed, many courts will confirm the modified plan without a hearing.</li>
-<li><strong>Hearing (if needed)</strong> - If objections are filed, the court schedules a hearing. The debtor must demonstrate that the modification is justified and that the modified plan satisfies all applicable requirements.</li>
-<li><strong>Order confirming modified plan</strong> - If approved, the court enters an order confirming the modified plan. The trustee adjusts distributions accordingly.</li>
-</ol>
-</div>
-<div class="content-section">
-<h2>Modification as an Alternative to Dismissal or Hardship Discharge</h2>
-<p>When a debtor encounters financial difficulty during the plan, there are three main options:</p>
-<ul>
-<li><strong>Modify the plan (Section 1329)</strong> - Adjust payments, extend the term, or change claim treatment. This preserves the case and the debtor's progress toward a full Section 1328(a) <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</li>
-<li><strong>Seek a <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship discharge</a> (Section 1328(b))</strong> - If modification is not practicable, the debtor can request a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a>. But this produces a narrower <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> without superdischarge provisions. See <a href="/1328b-hardship.html">our 1328(b) deep dive</a> for details.</li>
-<li><strong>Dismiss or convert the case</strong> - <a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> ends the case without a discharge. Conversion to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> produces a Chapter 7 discharge but exposes non-exempt assets to liquidation.</li>
-</ul>
-<p>Modification should always be the first option considered. It preserves the full scope of the 1328(a) discharge, maintains the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, and allows the debtor to continue making progress on secured debt obligations like mortgage cures and vehicle cramdowns.</p>
-<div class="green-box">
-<p><strong>The trap to watch for:</strong> If the debtor has already modified the plan to extend to 60 months and circumstances change again, the modification option narrows significantly. There is no room to extend further. At that point, the debtor may need to seek a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> or face <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>. This is why experienced practitioners counsel debtors to keep some term extension in reserve for unexpected future problems.</p>
+<div class="cta-box">
+<h3>Full Discharge Eligibility Screening</h3>
+<p>For comprehensive screening against 4.9 million federal bankruptcy cases covering all four <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> combinations, use the full screener.</p>
+<div class="cta-links">
+<a class="primary-btn" href="https://1328f.com?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Full Screener at 1328f.com</a>
+<a class="secondary-btn" href="https://dischargebar.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">All Discharge Bars</a>
 </div>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
 <details>
-<summary>Can I lower my Chapter 13 payment?</summary>
+<summary>What is the 1328(f) <a href="https://dischargebar.org/" title="discharge bar">discharge bar</a>?</summary>
 <div class="faq-answer">
-<p>Yes, if your financial circumstances have genuinely changed since the plan was confirmed. Section 1329 allows modification of the plan to reduce payments. Common justifications include job loss, income reduction, increased necessary expenses, or medical emergency. File a motion to modify with supporting documentation. The modified plan must still satisfy the best interest test and other confirmation requirements.</p>
+<p>Section 1328(f) prevents a debtor from receiving a Chapter 13 discharge if they received a prior discharge too recently. Under 1328(f)(1), the bar is 4 years if the prior discharge was Chapter 7, 11, or 12. Under 1328(f)(2), the bar is 2 years if the prior discharge was Chapter 13. The clock runs from filing date to filing date.</p>
 </div>
 </details>
 <details>
-<summary>Can the trustee increase my payment?</summary>
+<summary>Can I still file Chapter 13 during the bar period?</summary>
 <div class="faq-answer">
-<p>Yes. Section 1329(a) allows the trustee or any unsecured creditor to request plan modification, not just the debtor. If the trustee discovers your income has increased - through tax returns, pay advices, or other means - the trustee can file a motion to increase your plan payments. This is one reason districts require annual tax return filings with the trustee.</p>
+<p>Yes. Section 1328(f) is a <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a>, not a filing bar. You can file a Chapter 13 case during the bar period and still receive the benefits of the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, stop foreclosure, and restructure debts. However, you will not receive a discharge at the end of the plan, meaning your personal liability on dischargeable debts will continue after the case closes.</p>
 </div>
 </details>
 <details>
-<summary>How many times can I modify my plan?</summary>
+<summary>Does 1328(f) run from filing date or discharge date?</summary>
 <div class="faq-answer">
-<p>The statute does not set a specific limit on the number of modifications. However, courts may view repeated modifications with skepticism, particularly if each one reduces payments. Each modification must be justified by genuine changed circumstances and must satisfy confirmation standards. Most cases involve zero to two modifications over the life of the plan.</p>
+<p>Filing date to filing date. This is one of the most common misconceptions in bankruptcy law. The statute says "in a case filed within" the specified period. So if your Chapter 7 was filed on March 1, 2022, the four-year bar under 1328(f)(1) expires on March 1, 2026 - regardless of when you actually received the Chapter 7 discharge.</p>
 </div>
 </details>
 <details>
-<summary>Do I need a lawyer to modify my <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a>?</summary>
+<summary>What is the difference between 1328(f)(1) and 1328(f)(2)?</summary>
 <div class="faq-answer">
-<p>You are not legally required to have a lawyer. <a href="https://prosebankruptcy.org/" title="pro se">Pro se</a> debtors can file modification motions themselves. However, plan modification involves technical requirements - the modified plan must satisfy the best interest test, the feasibility test, and other confirmation standards under Section 1325(a) as made applicable by Section 1329(b)(1). Errors can result in denial of the modification or case dismissal. If you have an attorney of record, they typically handle modifications as part of their ongoing representation. For more on <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> representation, see <a href="https://prosedebtors.org">prosedebtors.org</a>.</p>
+<p>Section 1328(f)(1) applies when the prior discharge was under Chapter 7 (<a href="https://727a8.com" rel="noopener" target="_blank" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project">Section 727</a>), <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> (Section 1141), or Chapter 12 (Section 1228). The bar period is 4 years. Section 1328(f)(2) applies when the prior discharge was under Chapter 13 (Section 1328). The bar period is 2 years. Both are measured filing date to filing date.</p>
 </div>
 </details>
-</div>
-<div class="cta-box">
-<h3>Related Resources</h3>
-<div class="cta-links">
-<a class="primary-btn" href="https://chapter13plan.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Chapter 13 Plans</a>
-<a class="secondary-btn" href="https://bankruptcyhardship.org?utm_source=section1328.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Hardship Discharge</a>
-</div>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -431,10 +395,10 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Cross-Network Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://chapter13plan.org" style="color:#58a6ff">chapter13plan.org</a> - How Chapter 13 plans work, including initial plan requirements</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcyhardship.org" style="color:#58a6ff">bankruptcyhardship.org</a> - When modification is not enough and <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> is needed</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://dismissedbankruptcy.org" style="color:#58a6ff">dismissedbankruptcy.org</a> - What happens when a Chapter 13 case is dismissed</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org</a> - The <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> and how it affects plan length requirements</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.com" style="color:#58a6ff">1328f.com</a> - Full discharge eligibility screener with 4.9 million case database</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://727a8.com" style="color:#58a6ff">727a8.com</a> - <a href="https://727a8.com" rel="noopener" target="_blank" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project">Section 727</a>(a)(8) eight-year bar between Chapter 7 discharges</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://dischargebar.org" style="color:#58a6ff">dischargebar.org</a> - Complete guide to all discharge timing bars</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://109g.org" style="color:#58a6ff">109g.org</a> - <a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) filing bars and eligibility restrictions</p>
 </div>
 <p class="updated">Last updated: March 2026</p>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -537,7 +501,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
@@ -554,8 +518,89 @@
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
 <p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
 <p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-3" style="color:#58a6ff">Suggestion 26-BK-3</a> and <a href="https://www.uscourts.gov/forms-rules/records-rules-committees/suggestions/dan-brown-26-bk-5" style="color:#58a6ff">Suggestion 26-BK-5</a></p>
-<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a> <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> screening in federal bankruptcy courts</p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated Section 1328(f) <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> screening in federal bankruptcy courts</p>
 </div>
+<script>
+function calculate1328f() {
+  var dateEl = document.getElementById('prior-date');
+  var chapterEl = document.getElementById('prior-chapter');
+  var dischargeEl = document.getElementById('got-discharge');
+  var resultEl = document.getElementById('calc-result');
+
+  var priorDate = dateEl.value;
+  var chapter = chapterEl.value;
+  var gotDischarge = dischargeEl.value;
+
+  if (!priorDate || !chapter || !gotDischarge) {
+    resultEl.className = 'calc-result show no-bar';
+    resultEl.innerHTML = '<p class="result-title">Please fill in all fields.</p>';
+    return;
+  }
+
+  if (gotDischarge === 'no') {
+    resultEl.className = 'calc-result show no-bar';
+    resultEl.innerHTML = '<p class="result-title" style="color:#58a6ff;">No discharge bar applies.</p>' +
+      '<p>Section 1328(f) only applies when the debtor received a discharge in the prior case. Since no discharge was received, you are not subject to the 1328(f) timing bars for a new Chapter 13 filing.</p>' +
+      '<p>Note: other restrictions may apply. Check <a href="https://109g.org">Section 109(g)</a> for filing bars that apply after dismissal.</p>';
+    return;
+  }
+
+  var filing = new Date(priorDate + 'T00:00:00');
+  if (isNaN(filing.getTime())) {
+    resultEl.className = 'calc-result show no-bar';
+    resultEl.innerHTML = '<p class="result-title">Invalid date. Please enter a valid filing date.</p>';
+    return;
+  }
+
+  var barYears;
+  var barSection;
+  if (chapter === '13') {
+    barYears = 2;
+    barSection = '1328(f)(2)';
+  } else {
+    barYears = 4;
+    barSection = '1328(f)(1)';
+  }
+
+  var eligible = new Date(filing);
+  eligible.setFullYear(eligible.getFullYear() + barYears);
+
+  var today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  var eligibleStr = months[eligible.getMonth()] + ' ' + eligible.getDate() + ', ' + eligible.getFullYear();
+  var filingStr = months[filing.getMonth()] + ' ' + filing.getDate() + ', ' + filing.getFullYear();
+
+  var chapterLabel = 'Chapter ' + chapter;
+
+  if (today >= eligible) {
+    resultEl.className = 'calc-result show eligible';
+    resultEl.innerHTML = '<p class="result-title" style="color:#3fb950;">The discharge bar has expired.</p>' +
+      '<p>Your prior ' + chapterLabel + ' case was filed on ' + filingStr + '. Under Section ' + barSection + ', the ' + barYears + '-year bar expired on <strong>' + eligibleStr + '</strong>.</p>' +
+      '<p>A new Chapter 13 case filed today would not be subject to this discharge bar. You are eligible to receive a Chapter 13 discharge.</p>' +
+      '<p style="font-size:0.85rem;color:#9eaab6;">This calculator checks only the 1328(f) bars. Other eligibility requirements may apply. For comprehensive screening, use the <a href="https://1328f.com">full screener</a>.</p>';
+  } else {
+    var diffTime = eligible.getTime() - today.getTime();
+    var diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    resultEl.className = 'calc-result show barred';
+    resultEl.innerHTML = '<p class="result-title" style="color:#f85149;">Discharge bar is active.</p>' +
+      '<p>Your prior ' + chapterLabel + ' case was filed on ' + filingStr + '. Under Section ' + barSection + ', you cannot receive a Chapter 13 discharge in a case filed before <strong>' + eligibleStr + '</strong>.</p>' +
+      '<p>That is <strong>' + diffDays + ' day' + (diffDays === 1 ? '' : 's') + '</strong> from today.</p>' +
+      '<p>You <em>can</em> still file a Chapter 13 case before that date - 1328(f) is a discharge bar, not a filing bar. You would receive the benefits of the automatic stay and plan treatment, but would not receive a discharge at the end of the plan.</p>' +
+      '<p style="font-size:0.85rem;color:#9eaab6;">This calculator checks only the 1328(f) bars. For comprehensive screening including 727(a)(8) and 727(a)(9), use the <a href="https://1328f.com">full screener</a>.</p>';
+  }
+
+  if (typeof gtag === 'function') {
+    gtag('event', 'calculator_used', {
+      tool: '1328f_calculator',
+      chapter: chapter,
+      bar_active: today < eligible,
+      site: location.hostname
+    });
+  }
+}
+</script>
 <div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
 </body>
